@@ -6,11 +6,6 @@ know where to start, feel free to watch the videos linked below.
 
 P.S. Star and share this repository, if you had fun!
 
-## Videos
-
-- https://www.youtube.com/watch?v=c5SUB2fNW0w
-
-## Getting Started
 
 - Star this repo and share it with your friends.
 - Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
